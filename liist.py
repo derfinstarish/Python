@@ -1,6 +1,7 @@
 # A list stores an ordered, mutable collection of items.
 
-
+# fruits = ["apple","banana","orange"]
+# print(fruits)
 
 # Adding elements
 
