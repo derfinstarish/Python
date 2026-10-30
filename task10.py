@@ -7,4 +7,3 @@ s = 0
 for num in s3:
 	s += num
 print(s)
-
