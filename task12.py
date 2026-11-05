@@ -9,6 +9,5 @@ class person:
         print(f"Name: {self.name}.")
         print(f"Your are {self.age} years old.")
 
-
 x = person()
 x.display()
